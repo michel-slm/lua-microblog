@@ -1,0 +1,8 @@
+Lua.microblog
+=============
+
+Lua.microblog is a microblogging framework for Lua. It is initially
+targeting Tumblr, as other microblogging frameworks already have an
+abundance of clients.
+
+Michel Salim <salimma@fedoraproject.org>
